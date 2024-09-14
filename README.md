@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9c9b9b&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Gustavo+da+Silva+Mendonça;I'm+17+years+old;I+from+Brazil,+São+Paulo,++SP;I+study+web+development+at+RocketSeat;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e500a4&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'am+Sarah+Nicacio:%29)](https://git.io/typing-svg)
 
 # Sarah Nicacio
     Hello😊!! My name is Sarah, i am currently a systems development
