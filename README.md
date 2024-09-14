@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 # Sarah Nicacio
     Hello😊!! My name is Sarah, i am currently a systems development
     student and im looking for knowledge in areas related to data. 
