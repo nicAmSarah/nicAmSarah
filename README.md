@@ -5,11 +5,11 @@
     student and im looking for knowledge in areas related to data. 
     My work focuses on ✨front-end✨ projects. 
     Thanks for reading and it was a pleasure meeting you💖!
-## Conecte-se comigo    
+## connect with me 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=e500a4)](https://www.instagram.com/sarahnicacio__/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=e500a4)](https://www.linkedin.com/in/Sarah-Nicacio-De-Amorim/)
 
-## Habilidades
+## Skills
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=e500a4)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=e500a4)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=e500a4)  
