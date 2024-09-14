@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e500a4&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'am+Sarah+Nicacio:%29)](https://git.io/typing-svg)
 
-# Sarah Nicacio
-    Hello😊!! My name is Sarah, i am currently a systems development
+# About Me
+    Hello😊!! My name is Sarah, im 18 years old, i am currently a systems development
     student and im looking for knowledge in areas related to data. 
     My work focuses on ✨front-end✨ projects. 
     Thanks for reading and it was a pleasure meeting you💖!
