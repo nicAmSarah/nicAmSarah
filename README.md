@@ -31,6 +31,6 @@
 ![Nest](https://img.shields.io/badge/nestjs-000.svg?style=for-the-badge&logo=nestjs&logoColor=e500a4)
 
 ## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicAmSarah&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicAmSarah&layout=compact)
 
