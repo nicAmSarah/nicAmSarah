@@ -8,6 +8,12 @@
 ## connect with me 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=e500a4)](https://www.instagram.com/sarahnicacio__/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=e500a4)](https://www.linkedin.com/in/Sarah-Nicacio-De-Amorim/)
+  🎶Now playing ...🎶<br/>
+  <a href="http://spotify-informer.daniels-roth-stan.fr/">
+    <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>
+  </a><br/>
+  <a href="https://github.com/MrStanDu33/spotify-informer"><img src="https://img.shields.io/badge/built%20with%20MrStanDu33%2Fspotify‑informer-1ED760.svg?style=flat-square&logo=spotify&logoColor=white"/></a><br/>
+</p>
 
 ## Skills
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=e500a4)
