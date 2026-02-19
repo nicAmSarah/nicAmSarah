@@ -32,4 +32,5 @@
 
 ## GitHub Stats
 
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=nicAmSarah&count_private=true&theme=radical&show_icons=true" />
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
