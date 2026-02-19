@@ -29,8 +29,3 @@
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=e500a4)
 ![Next](https://img.shields.io/badge/Next-000?style=for-the-badge&logo=next.js&logoColor=e500a4)
 ![Nest](https://img.shields.io/badge/nestjs-000.svg?style=for-the-badge&logo=nestjs&logoColor=e500a4)
-
-## GitHub Stats
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
